@@ -29,3 +29,5 @@ Thumbs.db
 #secrets
 config.py
 .env
+
+#test data
